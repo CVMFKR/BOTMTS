@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "latest-version": "^4.0.0",
+    "node-schedule": "^2.1.1",
+    "venom-bot": "^5.1.0"
+  }
 }
